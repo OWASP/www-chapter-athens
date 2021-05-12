@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Nick Andriopoulos](mailto:nick.andriopoulos@owasp.org)
+* [Filippos Karapetis](mailto:filippos.karapetis@owasp.org)

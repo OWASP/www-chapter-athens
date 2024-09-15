@@ -2,13 +2,10 @@
 
 layout: col-sidebar
 title: OWASP Athens
-site_side: true
 tags: security application-security Athens
-level: 3
 region: Europe
-currency: eur
+country: Greece 
 meetup-group: OWASP-Athens
-country: Greece
 
 ---
 

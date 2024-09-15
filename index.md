@@ -7,7 +7,7 @@ tags: security application-security Athens
 level: 3
 region: Europe
 currency: eur
-meetup-group: OWASP-London
+meetup-group: OWASP-Athens
 country: Greece
 
 ---

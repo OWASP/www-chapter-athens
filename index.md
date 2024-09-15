@@ -17,7 +17,7 @@ The Open Worldwide Application Security Project (OWASP) is a nonprofit foundatio
 
 Our chapter is led by local leaders in line with the [Chapter Policy](https://owasp.org/www-policy/). Financial contributions should only be made online through the authorized donation button. If you'd like to be a speaker at any OWASP Chapter, please review the [speaker agreement](/www-policy/speaker-agreement) and contact us with details of your OWASP project, research, or software security topic.
 
-We encourage everyone to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and our [Community Slack Channel](https://owasp.slack.com/). OWASP provides a great opportunity to learn, network, and grow in the field of application security. Consider [becoming a member](/membership) or making a [donation](/donate) to support OWASP's efforts.
+We encourage everyone to participate in our [Projects](/projects), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/), and our [Community Slack Channel](https://owasp.slack.com/). OWASP provides a great opportunity to learn, network, and grow in the field of application security. Consider [becoming a member](/membership) or making a [donation](/donate) to support OWASP's efforts.
 
 ## Next Meeting/Event
 ---------------------

@@ -21,7 +21,7 @@ Please follow OWASP Athens on social Media(Links will be here soon) or join our 
 ---
 OWASP Athenss Chapter upcoming events can be found on Meetup:
 
-[https://www.meetup.com/OWASP-London/](https://www.meetup.com/OWASP-Athens/)
+[https://www.meetup.com/OWASP-Athens/](https://www.meetup.com/OWASP-Athens/)
 
 ---
 {% include chapter_events.html group=page.meetup-group %}

@@ -10,7 +10,7 @@ meetup-group: OWASP-Athens
 ---
 
 ## Welcome
-Welcome to the OWASP Athens Chapter! We are a group dedicated to helping the local community improve software security practices through collaboration, knowledge-sharing, and community-driven initiatives. We host events, talks, and hands-on workshops that cover the latest in cybersecurity and application security.  The chapter board is <a href="mailto:salih.demir@owasp.org">Salih Demir</a> and <a href="mailto:nabil.saied@owasp.org">Nabil Saied</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPAthens) | [Twitter](https://twitter.com/owaspathens) | [Meetup.com](https://meetup.com/OWASP-Athens) | [LinkedIN](https://uk.linkedin.com/company/owaspathens)
+Welcome to the OWASP Athens Chapter! We are a group dedicated to helping the local community improve software security practices through collaboration, knowledge-sharing, and community-driven initiatives. We host events, talks, and hands-on workshops that cover the latest in cybersecurity and application security.  The chapter board is <a href="mailto:salih.demir@owasp.org">Salih Demir</a> and <a href="mailto:nabil.saied@owasp.org">Nabil Saied</a>. Follow chapter news on [Facebook](https://www.facebook.com/OWASPAthens) | [Twitter](https://twitter.com/owaspathens) | [Meetup.com](https://meetup.com/OWASP-Athens) | [LinkedIN](https://www.linkedin.com/company/owasp-athens)
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation focused on improving the security of software. Our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security.

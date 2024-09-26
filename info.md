@@ -5,11 +5,11 @@
 * [Speaker Agreement](https://owasp.org/www-policy/legal/speaker-agreement)
 * [Code of Conduct](https://owasp.org/www-policy/operational/conferences-events.html)
 
-### Social Links(under construction)
-* [Facebook](https://www.facebook.com/OWASPAthens)
-* [Twitter](https://twitter.com/owaspathens)
-* [Linkedin](https://www.linkedin.com/company/owaspathens)
-* [Meetup.com](https://www.meetup.com/OWASP-Athens/)
+### Social Links
+* [Facebook](https://www.facebook.com/OWASPAthens)---under construction
+* [Twitter](https://twitter.com/owaspathens) ---under construction
+* [Linkedin](https://www.linkedin.com/company/owasp-athens/) (We are live, come and join us)
+* [Meetup.com](https://www.meetup.com/owasp-athens-chapter/) (We are live, come and join us)
 
 ### Code Repository
 * [Page Repo](https://github.com/OWASP/www-chapter-athens)

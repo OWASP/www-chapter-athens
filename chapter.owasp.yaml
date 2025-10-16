@@ -1,0 +1,28 @@
+community:
+  - name: chapter-athens
+    platform: slack
+    url: https://owasp.slack.com/archives/C098X6YR6DV
+leaders:
+  - name: Salih Demir
+    email: salih.demir@owasp.org
+    github: h4r4k1r1
+  - name: Nabil Saied
+    email: nabil.saied@owasp.org
+location:
+  country: Greece
+  country_code: GR
+  region: Attica
+  city: Athens
+  latitude: 37.9755648
+  longitude: 23.7348324
+meetup_group: OWASP-Athens
+name: OWASP Athens
+repositories:
+  - name: www-chapter-athens
+    url: https://github.com/OWASP/www-chapter-athens
+    description: OWASP Foundation Web Repository
+tags:
+  - security
+  - application-security
+  - Athens
+website: https://owasp.org/www-chapter-athens
